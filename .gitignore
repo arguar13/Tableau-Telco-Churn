@@ -1,0 +1,12 @@
+# Tableau temporary and recovery files
+~*.twbr
+*.hyper
+*.tmp
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# Blog drafts
+blog/
